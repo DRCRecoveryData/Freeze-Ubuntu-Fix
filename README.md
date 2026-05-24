@@ -42,7 +42,7 @@ To deploy these optimizations automatically on a fresh Linux installation, execu
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/ubuntu-stability-fix.git](https://github.com/yourusername/ubuntu-stability-fix.git)
+git clone [[https://github.com/yourusername/ubuntu-stability-fix.git](https://github.com/DRCRecoveryData/Freeze-Ubuntu-Fix)](h[ttps://github.com/yourusername/ubuntu-stability-fix.git](https://github.com/DRCRecoveryData/Freeze-Ubuntu-Fix))
 cd ubuntu-stability-fix
 
 ```
