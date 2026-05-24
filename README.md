@@ -60,7 +60,7 @@ sudo ./drclab_fix.sh
 Once the script confirms configuration injection, reboot your workstation:
 
 ```bash
-sudo reboot
+sudo systemctl reboot -i
 
 ```
 
